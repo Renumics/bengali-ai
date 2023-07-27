@@ -1,0 +1,6 @@
+notebook
+seaborn
+pandas
+numpy
+renumics-spotlight
+sliceguard
